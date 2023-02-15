@@ -1,0 +1,18 @@
+#tileset
+tileset.bmp
+12 1
+tile1 : vide;0
+tile2 : plein;2
+tile3 : plein;4
+tile4 : plein;8
+tile5 : plein;16
+tile6 : plein;32
+tile7 : plein;64
+tile8 : plein;128
+tile9 : plein;256
+tile10 : plein;512
+tile11 : plein;1024
+tile12 : plein;2048
+#level
+4 4
+#fin

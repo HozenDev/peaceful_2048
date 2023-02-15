@@ -1,0 +1,35 @@
+# ignore all files
+/*
+
+# not ignore .gitignore
+!/.gitignore
+
+# not ignore readme
+!/readme.org
+
+# not ignore makefile
+!/Makefile
+
+# not ignore .c and .h in code
+!/code
+/code/*
+!/code/headers
+!/code/src
+/code/src/*
+!/code/src/*.c
+
+# not ignore graphics
+!/graphics
+/graphics/krita
+
+# not ignore fonts
+!/fonts
+
+# not ignore data
+!/data
+
+# not ignore music
+!/music
+
+# not ignore overview
+!/overview
