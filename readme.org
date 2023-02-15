@@ -67,7 +67,7 @@ Compilation à la main :)
 
 *Dernière version :* 1.0
 
-[[./tags][Liste des versions]]
+[[../../tags][Liste des versions]]
 
 ** Auteurs
 *** Responsable de projet
