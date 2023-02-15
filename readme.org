@@ -67,7 +67,7 @@ Compilation à la main :)
 
 *Dernière version :* 1.0
 
-[[https://gitlab.isima.fr/endurel/fourmi-de-langton/tags][Liste des versions]]
+[[./tags][Liste des versions]]
 
 ** Auteurs
 *** Responsable de projet
